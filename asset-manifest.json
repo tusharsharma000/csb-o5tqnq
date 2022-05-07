@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tusharsharma000.github.io/csb-o5tqnq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/main.587fb029.chunk.js",
+    "main.js.map": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/main.587fb029.chunk.js.map",
+    "runtime-main.js": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/runtime-main.16a0199e.js",
+    "runtime-main.js.map": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/runtime-main.16a0199e.js.map",
+    "static/js/2.11fa6729.chunk.js": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/2.11fa6729.chunk.js",
+    "static/js/2.11fa6729.chunk.js.map": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/2.11fa6729.chunk.js.map",
+    "index.html": "https://tusharsharma000.github.io/csb-o5tqnq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tusharsharma000.github.io/csb-o5tqnq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.11fa6729.chunk.js.LICENSE.txt": "https://tusharsharma000.github.io/csb-o5tqnq/static/js/2.11fa6729.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a0199e.js",
+    "static/js/2.11fa6729.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.587fb029.chunk.js"
+  ]
+}
